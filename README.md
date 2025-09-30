@@ -59,5 +59,4 @@ The platform involves **five main stakeholders**:
 ---
 
 
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+  
